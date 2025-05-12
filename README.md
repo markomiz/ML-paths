@@ -24,6 +24,8 @@ This project implements a maze solver using a combination of classical pathfindi
 
    * The model's state is saved during training for future use.
 
+## Example
+![image](https://github.com/user-attachments/assets/971fe38f-4599-4076-bfa5-7484af605cae)
 
 
 ## License
